@@ -29,7 +29,7 @@
 
     <!-- Gesture shortcuts -->
     <string name="screen_gestures_panel_title">Touchscreen Gestures</string>
-
+    <string name="screen_gestures_panel_summary">Gestures for Oneplus Devices</string>
     <string name="touchscreen_double_tap_gesture_title">Wake device</string>
     <string name="touchscreen_double_tap_gesture_summary">Double tap to wake the device</string>
     <string name="touchscreen_camera_gesture_title">Camera</string>
@@ -77,6 +77,7 @@
 
     <!-- Button settings -->
     <string name="button_panel_title">Additional buttons</string>
+    <string name="button_panel_summary">Slider and Swap settings</string>
     <string name="button_swap_title">Swap buttons</string>
     <string name="button_swap_summary">Swap the order of recents and back buttons</string>
 
